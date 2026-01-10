@@ -18,11 +18,12 @@ This guide and modlist is inspired by the following resources.
 
 0. Pre-requisites
 1. Clean install and intial setup
-2. Pre-modding
-3. Mods and modding guide
-4. Caveats, annexes
-5. Conclusion
-6. Feedback
+2. Tooling
+3. Pre-modding
+4. Mods and modding guide
+5. Caveats, annexes
+6. Conclusion
+7. Feedback
 
 ## 0. Pre-requisites
 
