@@ -6,7 +6,7 @@ The end-goals of the modding guide are to create a skyrim install that is idempo
 
 This might form the basis of a declarative modding DSL like Nix in the future, if I really bother with it. Yes, I know that Wabbajack exists.
 
-As for the modlist itself, the end-result of modding is a Skyrim that should feel brand new. Everything from visuals to gameplay and questing should be overhauled.
+As for the modlist itself, the end-result of modding is a Skyrim that should feel brand new. Everything from visuals to gameplay and questing should be overhauled. This is expanded upon in section 4.
 
 This guide and modlist is inspired by the following resources.
 
